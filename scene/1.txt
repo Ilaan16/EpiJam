@@ -1,0 +1,10 @@
+MENU :                                           
+//BUTTONS :                                      
+1"scene/1/table.png"470,210,966,627,/////////////
+0"scene/1/button_easy.png"550,400,326,175,///////
+0"scene/1/button_normal.png"1000,400,326,175,////
+0"scene/1/button_hard.png"790,600,326,175,///////
+BACKGROUND :                                     
+2"./scene/0/background.jpg"//////////////////////
+MUSIC :                                          
+4"scene/music.ogg"///////////////////////////////

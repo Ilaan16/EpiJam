@@ -1,0 +1,8 @@
+BUTTONS :                                        
+0"./scene/8/button_left.png"0,0,175,175,/////////
+BACKGROUND :                                     
+2"./scene/8/background.jpg"//////////////////////
+MUSIC :                                          
+4"scene/music.ogg"///////////////////////////////
+OBJECT :                                         
+1"./scene/8/table.png"400,0,966,627,/////////////

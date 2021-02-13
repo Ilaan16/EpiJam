@@ -1,0 +1,10 @@
+LOSEMENU :                                       
+//BUTTONS :                                      
+0"scene/4/close.png"1870,967,50,50,//////////////
+//OBJECTS :                                      
+1"scene/4/table.png"675,210,966,627,/////////////
+1"scene/4/lose.png"820,170,394,162,//////////////
+BACKGROUND :                                     
+2"./scene/4/background.png"//////////////////////
+MUSIC :                                          
+4"scene/music.ogg"///////////////////////////////

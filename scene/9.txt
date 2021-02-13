@@ -1,0 +1,5 @@
+//BUTTONS :                                      
+0"scene/9/menu.png"800,200,326,175,//////////////
+0"scene/0/button_play.png"800,500,331,329,///////
+BACKGROUND :                                     
+2"scene/9/background.png"0,0,1920,1080,//////////

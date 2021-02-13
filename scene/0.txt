@@ -1,0 +1,10 @@
+BUTTONS :                                        
+0"scene/0/button_play.png"800,500,331,329,///////
+0"scene/0/button_music.png"1700,10,176,175,//////
+0"scene/0/button_sound.png"1500,10,176,175,//////
+0"scene/0/close.png"1870,967,50,50,//////////////
+0"scene/0/how_to.png"50,800,231,152,/////////////
+BACKGROUND :                                     
+2"./scene/0/background.jpg"//////////////////////
+MUSIC :                                          
+4"scene/music.ogg"///////////////////////////////
